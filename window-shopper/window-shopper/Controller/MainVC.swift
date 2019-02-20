@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  window-shopper
-//
-//  Created by Ishraqe Manjur on 20/2/19.
-//  Copyright © 2019 Ishraqe Manjur. All rights reserved.
-//
-
 import UIKit
 
 class MainVC: UIViewController {
